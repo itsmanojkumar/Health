@@ -2,7 +2,7 @@
 
 An intuitive and interactive healthcare management dashboard built to help patients and doctors manage appointments, view health history, and access body diagnostics visually.
 
-![Dashboard Screenshot](src/assets/Screenshot 2025-05-23 224019.png)
+![Dashboard Screenshot](src/assets/Screenshot%202025-05-23%20224019.png)
 
 ---
 
