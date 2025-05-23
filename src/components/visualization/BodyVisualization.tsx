@@ -19,35 +19,35 @@ const BodyVisualization: React.FC = () => {
     {
       id: 'heart',
       name: 'Heart',
-      position: { x: 42, y: 30 },
+      position: { x: 48, y: 30 },
       status: 'good',
       lastChecked: '26 Oct 2021'
     },
     {
       id: 'lungs',
       name: 'Lungs',
-      position: { x: 78, y: 25 },
+      position: { x: 55, y: 27 },
       status: 'critical',
       lastChecked: '26 Oct 2021'
     },
     {
       id: 'teeth',
       name: 'Teeth',
-      position: { x: 78, y: 45 },
+      position: { x: 52, y: 17},
       status: 'warning',
       lastChecked: '26 Oct 2021'
     },
     {
       id: 'leg',
       name: 'Leg',
-      position: { x: 38, y: 75 },
+      position: { x: 42, y: 78 },
       status: 'good',
       lastChecked: '26 Oct 2021'
     },
     {
       id: 'bone',
       name: 'Bone',
-      position: { x: 78, y: 65 },
+      position: { x: 58, y: 65 },
       status: 'critical',
       lastChecked: '26 Oct 2021'
     }
