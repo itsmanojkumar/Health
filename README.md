@@ -2,7 +2,7 @@
 
 An intuitive and interactive healthcare management dashboard built to help patients and doctors manage appointments, view health history, and access body diagnostics visually.
 
-
+![Dashboard Screenshot](./assets/dashboard-screenshot.png)
 
 ---
 
@@ -58,15 +58,7 @@ Start the development server
 
     UI inspired by real-world healthcare systems
 
-    Icons and illustrations from iStock
-
-    Built using modern web technologies
-
-📜 License
-
-This project is licensed under the MIT License.
-
-    Built with bt Manoj Kumar
+    Built by Manoj Kumar
 - `https://github.com/itsmanojkumar/Health` .
 - `Manojkumar`
 
